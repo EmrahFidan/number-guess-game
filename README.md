@@ -18,11 +18,10 @@ This project is a number prediction game that I made for my lesson and use the C
 
 
 
-<h2 style="color: #0081a7;"> Screenshots </h2>
+<h2 style="color: #0081a7;"> Screenshot </h2>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/EmrahFidan/educationApp/assets/114583209/93c74a8c-27e5-43a8-bb46-b558b75edc2f
-" alt="Screenshot 1" width="800" style="margin-right: 10px;" />
+    <img src="https://github.com/EmrahFidan/educationApp/assets/114583209/93c74a8c-27e5-43a8-bb46-b558b75edc2f" alt="Screenshot 1" width="800" style="margin-right: 10px;" />
 </div>
 
 
