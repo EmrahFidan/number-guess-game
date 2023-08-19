@@ -14,7 +14,7 @@ This project is a number prediction game that I made for my lesson and use the C
 
 
 - C
-- You can play from this link: https://drive.google.com/file/d/16CntGE2INWSpDiHldBdAUnx4ZKMZ-Soa/view?usp=sharing
+- You can play from this link: https://drive.google.com/file/d/1ZULi8rFfI8qc5UMyEsI6UFlrqrdIZXio/view?usp=sharing
 
 
 
