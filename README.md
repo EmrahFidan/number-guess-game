@@ -1,11 +1,27 @@
+<h1 align="center">
+<br>
+💯 Number Guess Game
+</h1>
 
-![C](https://img.shields.io/badge/Language-C-darkblue.svg)
-[![Developed with Dev-C++](https://img.shields.io/badge/Developed%20with-Dev--C%2B%2B-darkred)](https://www.bloodshed.net/devcpp.html)  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+<h3 align="center">
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?logo=github&style=social"/>
   </a>
+  <a href="https://img.shields.io/badge/Language-C-darkblue.svg" target="_blank">
+  <img alt="C" src="https://img.shields.io/badge/Language-C-darkblue.svg"/>
+</a>
+<a href="https://www.bloodshed.net/devcpp.html" target="_blank">
+  <img alt="Developed with Dev-C++" src="https://img.shields.io/badge/Developed%20with-Dev--C%2B%2B-darkred"/>
+</a>
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/number-guess-game/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkgreen"/>
+  </a>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/" >
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&style=social"/>
+  </a>
+</h3>
+<br>
 
-
-<h1 style="color: #219ebc;"> 💯 Number Guess Game </h1>
 
 This project is a number prediction game that I made for my lesson and use the C language.
 
